@@ -11,9 +11,9 @@
 ## Work experience 👔
 | Position            | Company                                             | Field                            | Time Period       |
 | ----------------------- | --------------------------                          | -------------------------------- | ----------------- |
-| **Data Science Intern** | **[MIT / Lineage Logistics](https://www.onelineage.com/)** | **ML, Dashboard, Optimization**  | **2024-02 — now** |
+| **Data Science Intern** | **[MIT / Lineage Logistics](https://www.onelineage.com/)** | **ML, Causal Inference, Optimization**  | **2024-02 — now** |
 | Machine Learning Engineer Intern | [MD.ai](https://md.ai/)                    | AI, LLMs, Computer Vision           | 2023-04 — 2024-05 |
-| Summer Associate        | [Boston Consulting Group](https://www.bcg.com/)     | Tech Consulting, Analytics       | 2022-10 — 2023-04 |
+| Summer Associate        | [Boston Consulting Group](https://www.bcg.com/)     | Analytics, Dashboard, Tech Strategy        | 2022-10 — 2023-04 |
 | Summer Intern           | [Mastercard](https://www.mastercard.us/en-us.html)  | Marketing Analytics, A/B Testing | 2021-05 — 2022-10 |
 
 ## Education 🎓
