@@ -3,7 +3,7 @@
 ### **Fields of interest**: ML Engineering, AI & ML, Data Science, Optimization, NLP, Reinforcement Learning
 
 ## Skills 🛠️
-- **Languages**:&nbsp;                         Python, Java, SQL, JavaScript, HTML
+- **Languages**:&nbsp;                         Python, Java, C++, SQL, JavaScript, HTML
 - **DS/ML/DL**:  &nbsp;&nbsp;                  sk-learn, PyTorch, Transformers
 - **Big Data**: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Hadoop, Spark
 - **DevOps**:    &nbsp;&nbsp;&nbsp;&nbsp;      Linux, Git, Docker
