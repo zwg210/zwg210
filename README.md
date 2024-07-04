@@ -4,7 +4,7 @@
 
 ## Skills 🛠️
 - **Languages**:&nbsp;                         Python, Java, C++, SQL, JavaScript, HTML
-- **DS/ML/DL**:  &nbsp;&nbsp;                  sk-learn, PyTorch, Transformers
+- **DS/ML/DL**:  &nbsp;&nbsp;                  Tensorflow, sk-learn, PyTorch, Transformers
 - **Big Data**: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Hadoop, Spark
 - **DevOps**:    &nbsp;&nbsp;&nbsp;&nbsp;      Linux, Git, Docker
 
@@ -21,7 +21,7 @@
 - [Bachelor's Degree in Data Science with Concentration in AI, Economics](https://bulletins.nyu.edu/undergraduate/arts-science/programs/data-science-ba/#curriculumtext) @ New York Univerisiy (2019 - 2023)
 
 ## Projects 🔭
-- [ControlNet for Cubism Art (Computer Vision, Neural Network, AI)](https://github.com/zwg210/controlnet-sm/blob/main/training_controlnet_for_cubism_art_final_report-compressed.pdf) - Tranining ControlnNet to condition Stable Diffusion Modem
+- [ControlNet for Cubism Art (Computer Vision, Neural Network, AI)](https://github.com/zwg210/controlnet-cubism/blob/main/training_controlnet_for_cubism_art_final_report-compressed.pdf) - Tranining ControlnNet to condition Stable Diffusion Modem
 - [Drone Delivery Optimization (Mathematics, Optimization)](https://github.com/zwg210/drone_delivery_optimization/blob/main/drone_delivery_optimization_vFinal.pdf) - Non-convex optimization project to optimize tasks allocation for a drone delivery network
 - [Contextless Writing Quality Prediction (ML, NLP, Data Science)](https://github.com/zwg210/contextless-writing-quality-prediction/blob/main/Writing%20Quality%20Prediction_Final_Report.pdf) - ML model to predict writing quality based on keystrokes
 - [Predicting Closing Stock Price (ML, Time-series, Finance)](https://github.com/zwg210/closing-stock-price-prediction/blob/main/NASDAQ_Closing_Stock_Price_Prediction_Report_vFinal.pdf) - Kaggle competition to predict the closing stock price of NASDAQ
