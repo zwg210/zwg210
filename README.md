@@ -1,6 +1,6 @@
 # Hi, my name is Lucas Goh 🤗
 
-### **Fields of interest**: ML Engineering, AI & ML, Data Science, Optimization, NLP, Reinforcement Learning
+### **Fields of interest**: Data Science, ML Engineering, AI & Deep Learning, Optimization, Computer Vision, NLP, Reinforcement Learning
 
 ## Skills 🛠️
 - **Languages**:&nbsp;                         Python, Java, C++, SQL, JavaScript, HTML
